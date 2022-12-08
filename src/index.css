@@ -1,0 +1,20 @@
+.FilterableProductTable {
+    border: 2px solid orange;
+    height: 300px;
+    width: 250px;
+    padding: 0.25rem;
+}
+
+.SearchBar {
+    border: 2px solid blue;
+    margin: 0.25rem;
+}
+
+.ProductTable {
+    border: 2px solid lightgreen;
+    margin: 0.25rem auto;
+}
+
+.outOfStock {
+    color: red;
+}
